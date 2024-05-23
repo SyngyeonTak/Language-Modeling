@@ -88,22 +88,20 @@ Original characters:  He cannot temperately transport his honours
 <br><br>
 
 ==================================================
-
-<br>
 at temperature  0.2
 <br><br>
 generated_text:
-<br>
+<br><br>
 to the people,<br>
 That I must not the common the people and the people and the people and the many tha
 <br>
 ==================================================
-<br>
 at temperature  1.5
 <br><br>
 generated_text:
-<br>
+<br><br>
 They we coupsuace in the spidedio't,<br>
 Est wife<br>
 A spary; and I muse nay; we'lcker lip night,<br>
-Whose na<br>
+Whose na<be>
+==================================================
