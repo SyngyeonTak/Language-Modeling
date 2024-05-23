@@ -57,7 +57,7 @@ We experimented with different temperatures when generating characters and obser
 <br>
 
 The samples are the Shakespeare lines that we experimented for kindly see the results of each sample with different temperatures 0.2, 0.5, 0.8, 1.0, 1.2
-<br>
+<br><br>
 Sample1: "He cannot temperately transport his honours",
 <br>
 Sample2: "Were he to stand for consul, never would he",
@@ -84,11 +84,11 @@ Sample 1
 <br>
 Original characters:  He cannot temperately transport his honours
 
-<br>
+<br><br>
 ==================================================
 <br>
 at temperature  0.2
-<br>
+<br><br>
 generated_text:
 <br>
 to the people,<br>
@@ -97,7 +97,7 @@ That I must not the common the people and the people and the people and the many
 ==================================================
 <br>
 at temperature  1.5
-<br>
+<br><br>
 generated_text:
 <br>
 They we coupsuace in the spidedio't,<br>
