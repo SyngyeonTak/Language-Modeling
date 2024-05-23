@@ -80,13 +80,15 @@ On the other hand, the sentence structures are broken by using high temperatures
 It may disturb the influence of the predicted result (z_i) and cause a model to explore the creative structures and words that were not trained
 <br>
 These are some results at different temperatures to check the plausibility of generated texts
-<br>
+<br><br>
 Sample 1
 <br>
 Original characters:  He cannot temperately transport his honours
 
 <br><br>
+
 ==================================================
+
 <br>
 at temperature  0.2
 <br><br>
