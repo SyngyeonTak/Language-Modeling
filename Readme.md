@@ -53,27 +53,27 @@ y_i = \frac{e^{z_i / T}}{\sum_{j} e^{z_j / T}}
 We experimented with different temperatures when generating characters and observed their impact on the generated results. In our analysis, we discuss how varying the temperature affects the plausibility and diversity of the generated text.
 
 
-These are the Shakespeare lines that we experimented for kindly see the results of each sample with different temperature 0.2, 0.5, 0.8, 1.0, 1.2
+The samples are the Shakespeare lines that we experimented for kindly see the results of each sample with different temperatures 0.2, 0.5, 0.8, 1.0, 1.2
 
-seed_characters_list = [
-    "He cannot temperately transport his honours",
-    "Were he to stand for consul, never would he",
-    "We have power in ourselves to do it,",
-    "Good night, good night! parting is such sweet sorrow,",
-    "And with thy scorns drew'st rivers from his eyes"
-]
+Sample1: "He cannot temperately transport his honours",
+Sample2: "Were he to stand for consul, never would he",
+Sample3: "We have power in ourselves to do it,",
+Sample4: "Good night, good night! parting is such sweet sorrow,",
+Sample5: "And with thy scorns drew'st rivers from his eyes"
 
 
-It appears that the generated texts at temperature 0.2 are more plausible. As it corresponds to grammer structures more precisely, they are more readible.
-Yet, the meanings of the results are quite not corresponding to the original characters. 
-The low temerature hyper parameter plays a role of keeping the general sentence structures in the provided corpus
-On the other hand, the sentence structures are broken with using high temperature. 
-It may disturb the influence the predicted result (z_i) and cause a model to explore the creative sturctures and words that were not trained
+Analysis
+It appears that the generated texts at temperature 0.2 are more plausible. As it corresponds to grammar structures more precisely, they are more readable.
+Yet, the meanings of the results are quite not corresponding to the original seed characters. 
+The low-temperature hyper parameter plays a role of keeping the general sentence structures in the provided corpus
 
-These are some results at different temerature to check the plausibility of generated texts
+On the other hand, the sentence structures are broken by using high temperatures. 
+It may disturb the influence of the predicted result (z_i) and cause a model to explore the creative structures and words that were not trained
+
+These are some results at different temperatures to check the plausibility of generated texts
 
 Sample 1
-original characters:  He cannot temperately transport his honours
+Original characters:  He cannot temperately transport his honours
 
 ==================================================
 
