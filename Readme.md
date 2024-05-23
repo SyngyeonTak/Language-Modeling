@@ -45,10 +45,11 @@ We implemented character generation functionality in `generate.py` using the tra
 ## 6. Softmax Function with Temperature Parameter (Report)
 
 The softmax function with a temperature parameter T can be written as:
-<br>
-\[
+<be>
+
+$$
 y_i = \frac{e^{z_i / T}}{\sum_{j} e^{z_j / T}}
-\]
+$$
 
 <br>
 
